@@ -1,30 +1,6 @@
-.cheer{
-    background-color: grey;
+body{
+   color:lightcoral;
 }
-.thoughts{
-    background-color:green;
-}
-.funny{
-    background-color: orange;
-}
-.weird{
-    background-color: yellow;
-}
-.romance{
-    background-color: pink;
-}
-.trust{
-    background-color: blue;
-}
-.anger{
-    background-color: red;
-}
-.fear{
-    background-color: brown;
-}
-.nerves{
-    background-color: black;
-}
-.isolated{
-    background-color: white;
+#navbarSupportedContent{
+   margin: 20px,0px,0px,40px;
 }
