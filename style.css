@@ -4,3 +4,15 @@ body{
 #navbarSupportedContent{
    margin: 20px,0px,0px,40px;
 }
+.carousel-inner{
+   width: 500px;
+   height: 500px;
+}
+.btn{
+   background-color: #EF5466;
+   border : 2px solid;
+   border-radius: 3px; 
+}
+.btn:hover{
+   color: #121216;
+}
